@@ -8,7 +8,7 @@ MichelAI, music video generator based on [BigGAN](https://github.com/ajbrock/Big
 
 MichelAI comes in two ways
 
- - [Windows exe](https://1drv.ms/u/s!AjwQADba1lMhyxv1YtO-Y_fYHe5w?e=VngDNc)
+ - [Windows exe](https://1drv.ms/u/s!AjwQADba1lMhyxw3wobgg5XetgSj?e=3Vyr0t)
  - Python program
  
  If you want to make the program run faster you might want to use the python code to run it on your GPU
