@@ -1,6 +1,6 @@
 # MichelAI
 
-MichelAI, music video generator based on [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch), inspired by Mario Klingemann and Mike Tyka works on art using AI
+MichelAI, music video generator based on [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch), created for Bend the Future first album and inspired by Mario Klingemann and Mike Tyka works on art using AI
 [![](http://img.youtube.com/vi/IYK83KiojzA/0.jpg)](http://www.youtube.com/watch?v=IYK83KiojzA "Reaching For - Bend the Future")
 
 # How it works
