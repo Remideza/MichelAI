@@ -15,6 +15,8 @@ MichelAI comes in two ways
  If you want to make the program run faster you might want to use the python code to run it on your GPU
  
  In both cases to make it work, you have to insert a WAV file and an MP3 file of the same music in the input folder, and then start the program, you can then fiddle with the settings and start the generation, results will appear in the output folder
+ 
+ On the first run, the program will download and cache the BigGAN model, this might take a while
 
 ## Parameters
 
