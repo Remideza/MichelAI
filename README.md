@@ -34,7 +34,8 @@ MichelAI comes in two ways :
 |Img buffer|Number of images stored in RAM before they get written on disk
 |Frequency group|Makes a sum of a group of frequencies instead of using all of them
 |Floor freq array|Starting point for the array of frequencies
-|Z max|Set the maximum number for the Zvector
+|Z max|Set the maximum number for the Z vector
+|Y max|Set the maximum number for the Y vector
 |FFT Decrease|Regulate how much the maxFFT will go down between frames
 
 
