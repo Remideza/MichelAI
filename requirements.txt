@@ -1,0 +1,7 @@
+opencv-python
+moviepy
+numpy
+tensorflow
+tensorflow_hub
+PyQt5 
+wave
